@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔞️🏰️[🇴.🇸]🏳️‍🌈️🌐️🔞️ The official source repository for web mode in VRedRoomOS, a completely optional set of web tools for the system. Disabled by default in all profiles. This project is NSFW.
